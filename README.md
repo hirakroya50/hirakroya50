@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **advanced backend concepts**
 
-- 👨‍💻 All of my projects are available at [https://hirakroya50.github.io/my_portfolio_html-css-js/](https://hirakroya50.github.io/my_portfolio_html-css-js/)
-
 - 💬 Ask me about **nextjs , reactjs , nestjs , aws**
 
 - 📫 How to reach me **hirakroya50@gmail.com**
