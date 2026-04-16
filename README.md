@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **nextjs , reactjs , nestjs , aws**
 
-- 📫 How to reach me **hirakroya50@gmail.com**
+- 📫 How to reach me: **hirakroya50@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12n7oQ5XVY6zufqalI8fLgZULY9qRsU3I5boKu5qOhrk/edit?tab=t.0](https://docs.google.com/document/d/12n7oQ5XVY6zufqalI8fLgZULY9qRsU3I5boKu5qOhrk/edit?tab=t.0)
 
