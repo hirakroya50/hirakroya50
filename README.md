@@ -17,5 +17,7 @@ I've been developing awesome software for the last 3 years. **Full-Stack & AI En
 
 ### 📬 Connect With Me
 * **Email:** [hirakroya50@gmail.com](mailto:hirakroya50@gmail.com) 
-* **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com) 
-* **Portfolio:** [your-portfolio-link.com](https://your-portfolio.com) 
+* **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/royhirakp/) 
+* **Portfolio:** [portfolio.zudio.live/](https://portfolio.zudio.live)
+
+
