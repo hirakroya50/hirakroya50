@@ -1,6 +1,6 @@
-# Hi, I'm Hirak Roy 👋
+# Hi, I'm Hirak 👋
 
-**Full-Stack & AI Engineer** specializing in production-grade LLM applications, distributed microservices, and high-performance web systems. Currently architecting scalable SaaS platforms, agentic workflows, and real-time backends.
+** I've been developing awesome software for the last 3 years. Full-Stack & AI Engineer** specializing in production-grade LLM applications, distributed microservices, and high-performance web systems.
 
 <p align="center">
   <img src="https://media.tenor.com/1eZJF7qDOIQAAAAM/beatboxing-cat-cat.gif" width="380" alt="Beatboxing Cat" />
@@ -16,6 +16,6 @@
 ---
 
 ### 📬 Connect With Me
-* **Email:** [hirakroya50@gmail.com](mailto:hirakroya50@gmail.com) [cite: 2]
-* **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com) [cite: 2]
-* **Portfolio:** [your-portfolio-link.com](https://your-portfolio.com) [cite: 2]
+* **Email:** [hirakroya50@gmail.com](mailto:hirakroya50@gmail.com) 
+* **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com) 
+* **Portfolio:** [your-portfolio-link.com](https://your-portfolio.com) 
