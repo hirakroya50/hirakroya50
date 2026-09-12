@@ -1,14 +1,7 @@
-# Hi, I'm Hirak 👋
+## Hi, I'm Hirak 👋
 
-** I've been developing awesome software for the last 3 years. Full-Stack & AI Engineer** specializing in production-grade LLM applications, distributed microservices, and high-performance web systems.**
+I've been developing awesome software for the last 3 years. **Full-Stack & AI Engineer** specializing in production-grade LLM applications, distributed microservices, and high-performance web systems.
 
-
-
-[cite_start]**Full-Stack & AI Engineer** specializing in production-grade LLM applications, distributed microservices, and high-performance web systems[cite: 4, 6, 7]. [cite_start]Currently architecting scalable SaaS platforms, agentic workflows, and real-time backends[cite: 7, 23].
-
-<p align="center">
-  <img src="https://media.tenor.com/1eZJF7qDOIQAAAAM/beatboxing-cat-cat.gif" width="480" alt="Beatboxing Cat" />
-</p>
 <p align="center">
   <img src="https://media.tenor.com/1eZJF7qDOIQAAAAM/beatboxing-cat-cat.gif" width="380" alt="Beatboxing Cat" />
 </p>
